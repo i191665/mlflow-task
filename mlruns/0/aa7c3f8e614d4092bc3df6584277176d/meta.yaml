@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Code/MLOps/MLFlow/mlruns/0/aa7c3f8e614d4092bc3df6584277176d/artifacts
+end_time: 1680615038970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa7c3f8e614d4092bc3df6584277176d
+run_name: polite-skunk-494
+run_uuid: aa7c3f8e614d4092bc3df6584277176d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680615037034
+status: 3
+tags: []
+user_id: Ali
